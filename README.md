@@ -1,4 +1,4 @@
-"# TP01_KARIMOU_YANNICK" 
+"# TP01_ZALO_FRANCK" 
 "Les methodes supportees par le servlet sont:" 
 "-doGet" 
 "-getLastModified" 
